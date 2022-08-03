@@ -1,8 +1,5 @@
-# docker-rails
-Docker image to develop with rails
-
 # Docker Rails
-Docker image to develop with rails
+Docker image to develop with Ruby on Rails
 
 Current versions:
 
